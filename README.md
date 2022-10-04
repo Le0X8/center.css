@@ -4,5 +4,5 @@
 
 Ceneters Elements.
 
-Bind the code into your HTML document using ```<link rel="stylesheet" href="https://cdn.le0x8.de/css/center">```.
+Bind the code into your HTML document using ```<link rel="stylesheet" href="https://cdn.le0x8.de/css/center">``` or add the import rule ```@import url("https://cdn.le0x8.de/css/center")``` into your CSS.
 Use it then by setting the classes to ```c-container``` for container elements and ```c-element``` for the elements that should be centered.
